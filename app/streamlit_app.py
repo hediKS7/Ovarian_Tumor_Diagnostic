@@ -1,7 +1,3 @@
-# streamlit_seleneX_modern_ui.py
-# Modernized Streamlit UI for SeleneX Ovarian Tumor Diagnostic Mini-Prototype
-# Adds: Output score card, Grad-CAM visualization, and top tabular SHAP features.
-# Model API: fused keras model taking [image, tabular] -> prob
 
 import streamlit as st
 import numpy as np
