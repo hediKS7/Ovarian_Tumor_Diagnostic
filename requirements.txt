@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.15.0
+keras==2.15.0
+numpy
+pandas
+Pillow
+scikit-learn
+opencv-python-headless==4.11.0.86
