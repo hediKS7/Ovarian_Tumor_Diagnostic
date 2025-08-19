@@ -29,6 +29,5 @@ The app demonstrates how deep learning and explainable AI can assist in medical 
 
 ---
 
-## 🚀 Getting Started
 
 
