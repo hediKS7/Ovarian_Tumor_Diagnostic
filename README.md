@@ -1,4 +1,4 @@
-# SeleneX – Ovarian Tumor Diagnostic Mini-Prototype
+# Ovarian Tumor Diagnostic Mini-Prototype
 
 SeleneX is a **Streamlit-based prototype app** for ovarian tumor diagnosis using a **fusion model** that combines ultrasound image analysis with clinical tabular data.  
 The app demonstrates how deep learning and explainable AI can assist in medical decision support.
